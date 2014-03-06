@@ -14,7 +14,7 @@ Installation
 
 * Install [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
-* Run command - `sudo npm install -g phonegap`
+* Run command - `sudo npm install -g cordova`
 
 * Goto project directory
 
